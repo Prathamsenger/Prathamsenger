@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Pratham Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding"  width="400" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
