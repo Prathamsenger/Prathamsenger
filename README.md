@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Singh</h1>
-<h3 align="center">A passionate Data analyst and Generative AI enthusiast from India</h3>
+<h3 align="center">A passionate Data Scientist and Generative AI enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamsenger&label=Profile%20views&color=0e75b6&style=flat" alt="prathamsenger" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@singh_prat8140" target="blank"><img src="https://img.shields.io/twitter/follow/@singh_prat8140?logo=twitter&style=for-the-badge" alt="@singh_prat8140" /></a> </p>
 
-- 🔭 I’m currently working on **Data analytics  projects**
+- 🔭 I’m currently working on **Data Scientist  projects**
 
-- 🌱 I’m currently learning **SQL, Power bi **
+- 🌱 I’m currently learning **AWS, Snowflake **
 
 - 📫 How to reach me **singhpratham128@gmail.com**
 
