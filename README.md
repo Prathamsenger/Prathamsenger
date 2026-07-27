@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@singh_prat8140" target="blank"><img src="https://img.shields.io/twitter/follow/@singh_prat8140?logo=twitter&style=for-the-badge" alt="@singh_prat8140" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI  projects**
+- 🔭 I’m currently working on **Data Scientist projects**
 
-- 🌱 I’m currently learning **AWS, Langchain,langraph **
+- 🌱 I’m currently learning **AWS, Snowflake**
 
 - 📫 How to reach me **singhpratham128@gmail.com**
 
@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@singh_prat8140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singh_prat8140" height="30" width="40" /></a>
+<a href="https://twitter.com/@singh_prat8140" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singh_prat8140" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,32 +27,27 @@
 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
 <!-- LangChain -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
 </a>
 
 <!-- LangGraph -->
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="40" height="40"/>
 </a>
 
 <!-- ChromaDB -->
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ChromaDB" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ChromaDB" width="40" height="40"/>
 </a>
 
-<!-- Machine Learning (Scikit-learn) -->
+<!-- Machine Learning -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40"/>
-</a>
-
-<!-- Natural Language Processing (spaCy) -->
-<a href="https://spacy.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="Natural Language Processing" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40"/>
 </a>
 
 </p>
